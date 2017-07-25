@@ -1,1 +1,1 @@
-# FaceDetactor
+# FaceDetector
